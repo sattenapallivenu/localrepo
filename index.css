@@ -1,3 +1,9 @@
 h1{
     color:purple;
 }
+img{
+    filter: grayscale(200%);
+}
+img:hover{
+    filter: grayscale(0%);
+}
